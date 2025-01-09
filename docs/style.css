@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'inherit';
+    font-style: none;
+    font-weight: 400;
+    
+    
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.title{
+    font-weight: bold;
+    text-align: center;
+    color:#423232 ;
+    font-size: 80px;
+    border: none;
+}
+
+.content{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 0;
+    
+    
+}
+
+#next-button{
+    font-size: 60px;
+    padding: 3%;
+    border-radius: 30px;
+
+}
+.box{
+    
+}
